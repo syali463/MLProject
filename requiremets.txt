@@ -1,4 +1,7 @@
 numpy
+geopandas
 pandas
 requests
 dotenv
+shapely
+urllib3
