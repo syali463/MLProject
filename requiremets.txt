@@ -5,3 +5,5 @@ requests
 dotenv
 shapely
 urllib3
+xgboost
+scikit-learn
