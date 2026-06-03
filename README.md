@@ -35,6 +35,6 @@ Corn showed the stronger and more stable fit across multiple validation years. C
 - [results.txt](results.txt)
 
 ## Notes
-The repository also includes the scripts used to run the analysis and generate the PDF report. If you rerun the pipeline, the reported metrics may shift slightly depending on the exact data files and model randomness.
+If you rerun the pipeline, the reported metrics may shift slightly depending on the exact data files and model randomness.
 
 
