@@ -30,7 +30,6 @@ The current local run produced the following cumulative walk-forward metrics:
 Corn showed the stronger and more stable fit across multiple validation years. Cotton remained predictive, but the smaller merged dataset and the crop's indeterminate growth habit made the model less stable.
 
 ## Report Files
-- [polished_report.pdf](polished_report.pdf)
 - [markdown.md](markdown.md)
 - [results.txt](results.txt)
 
